@@ -1,5 +1,5 @@
 # CM-7 Agent Showcase Extension
-
+**CREATED BY: NICHOLAS M. GROSSI**
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![VS Code Marketplace](https://img.shields.io/badge/VS_Code_Marketplace-Install-blue)](https://marketplace.visualstudio.com/)
 
